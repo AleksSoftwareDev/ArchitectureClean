@@ -21,9 +21,7 @@ This repository contains a sample Android application built using Clean Architec
 ## Getting Started
 
 1. Clone the repository:
-   ```bash
   git clone git@github.com:AleksSoftwareDev/ArchitectureClean.git
-   ```
 
 2. Open the project in Android Studio.
 
